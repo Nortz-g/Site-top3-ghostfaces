@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    color: crimson;
+}
+
+p {
+    font-size: 30px;
+    color: crimson;
+}
+
+.img1 {
+    width: 500px;
+    height: 500px;
+}
+
+.img2 {
+    width: 500px;
+    height: 500px;
+}
+
+.img3 {
+    width: 500px;
+    height: 500px;
+}
+
+a {
+    color: crimson;
+}
+
+.img4 {
+    width: 1500px;
+    height: 1000px;
+}
